@@ -1,5 +1,5 @@
 ################################### Default Configuration ############################
-baseurl = "http://rc.examplesite.com/"
+baseurl = "http://rchugotest.com/"
 title = "Vex | hugo landing page template"
 theme = "vex-hugo"
 # post excert
